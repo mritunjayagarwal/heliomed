@@ -1,0 +1,75 @@
+.card {
+  padding: clamp(1.5rem, 3vw, 2.25rem);
+  color: var(--color-ink);
+  background: var(--color-cream-100);
+  border-radius: var(--radius-sm);
+}
+
+.heading {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.note {
+  margin-top: 0.5rem;
+  font-size: var(--text-xs);
+  color: var(--color-ink-muted);
+}
+
+.star {
+  color: var(--color-gold-500);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.75rem 2rem;
+  margin-top: 1.75rem;
+}
+
+.full {
+  grid-column: 1 / -1;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-top: 0.25rem;
+}
+
+.privacy {
+  max-width: 220px;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: var(--color-ink-muted);
+}
+
+.status {
+  padding: 0.875rem 1rem;
+  font-size: var(--text-sm);
+  background: rgba(194, 155, 82, 0.1);
+  border-left: 2px solid var(--color-gold-500);
+}
+
+.status a {
+  text-decoration: underline;
+}
+
+@media (max-width: 560px) {
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .footer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .privacy {
+    max-width: none;
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "products": [
+    {
+      "id": "ureteral-access-sheath",
+      "categoryId": "endourology",
+      "type": "Access",
+      "name": "Ureteral access sheath",
+      "description": "Maintains a working channel to the upper tract during ureteroscopy and RIRS.",
+      "image": {
+        "key": null,
+        "alt": "Ureteral access sheath"
+      },
+      "title": "Ureteral Access",
+      "titleAccent": "Sheath",
+      "tagline": "A ureteral access sheath that holds a working channel to the upper tract, so the ureteroscope can pass in and out through the procedure.",
+      "keyBenefits": [
+        "Stable working channel through ureteroscopy and RIRS",
+        "Supports repeated scope passes",
+        "Range of sizes to suit the ureter"
+      ],
+      "sizes": [
+        "Size 1",
+        "Size 2",
+        "Size 3",
+        "Size 4"
+      ],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "A steady channel for every scope pass.",
+        "paragraphs": [
+          "The ureteral access sheath is placed over a guidewire to give the ureteroscope a fixed route to the kidney. It keeps the channel open while the scope is passed in and out, and allows irrigation to drain during the procedure."
+        ],
+        "image": {
+          "key": null,
+          "alt": "Ureteral access sheath in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Material",
+            "value": "TBC"
+          },
+          {
+            "label": "Working length",
+            "value": "TBC"
+          },
+          {
+            "label": "Inner diameter",
+            "value": "TBC"
+          },
+          {
+            "label": "Outer diameter",
+            "value": "TBC"
+          },
+          {
+            "label": "Tip design",
+            "value": "TBC"
+          },
+          {
+            "label": "Coating",
+            "value": "TBC"
+          },
+          {
+            "label": "Sterilisation",
+            "value": "TBC"
+          },
+          {
+            "label": "Shelf life",
+            "value": "TBC"
+          },
+          {
+            "label": "Packaging",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": [
+        {
+          "code": "TBC",
+          "size": "Size 1",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 2",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 3",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 4",
+          "length": "TBC",
+          "pack": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "tear-away-sheath",
+      "categoryId": "endourology",
+      "type": "Access",
+      "name": "Tear-away sheath",
+      "description": "Peel-away sheath for establishing and holding percutaneous renal access in PCNL.",
+      "image": {
+        "key": null,
+        "alt": "Tear-away sheath"
+      },
+      "title": "Tear-away",
+      "titleAccent": "Sheath",
+      "tagline": "A peel-away sheath for establishing percutaneous renal access in PCNL, removed by splitting it once the tract is in place.",
+      "keyBenefits": [
+        "Holds the percutaneous tract open",
+        "Splits cleanly for removal",
+        "Suited to standard and mini-PCNL"
+      ],
+      "sizes": [
+        "Size 1",
+        "Size 2",
+        "Size 3",
+        "Size 4"
+      ],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "Access that steps aside when it is done.",
+        "paragraphs": [
+          "The tear-away sheath is introduced over a dilator to hold the percutaneous tract to the kidney. Once access is established it is split along its length and peeled away, leaving the tract undisturbed."
+        ],
+        "image": {
+          "key": null,
+          "alt": "Tear-away sheath in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Material",
+            "value": "TBC"
+          },
+          {
+            "label": "Working length",
+            "value": "TBC"
+          },
+          {
+            "label": "Inner diameter",
+            "value": "TBC"
+          },
+          {
+            "label": "Outer diameter",
+            "value": "TBC"
+          },
+          {
+            "label": "Tip design",
+            "value": "TBC"
+          },
+          {
+            "label": "Coating",
+            "value": "TBC"
+          },
+          {
+            "label": "Sterilisation",
+            "value": "TBC"
+          },
+          {
+            "label": "Shelf life",
+            "value": "TBC"
+          },
+          {
+            "label": "Packaging",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": [
+        {
+          "code": "TBC",
+          "size": "Size 1",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 2",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 3",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 4",
+          "length": "TBC",
+          "pack": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "dilator-set",
+      "categoryId": "endourology",
+      "type": "Access",
+      "name": "Dilator set",
+      "description": "Graduated dilators for controlled tract dilation in standard and mini-PCNL.",
+      "image": {
+        "key": null,
+        "alt": "Dilator set"
+      },
+      "title": "Dilator",
+      "titleAccent": "Set",
+      "tagline": "Graduated dilators for controlled, step-by-step tract dilation in standard and mini-PCNL.",
+      "keyBenefits": [
+        "Graduated sizes for stepwise dilation",
+        "Passes over a standard guidewire",
+        "For standard and mini-PCNL"
+      ],
+      "sizes": [
+        "Size 1",
+        "Size 2",
+        "Size 3"
+      ],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "Controlled dilation, one step at a time.",
+        "paragraphs": [
+          "The dilator set widens the percutaneous tract in stages, from the initial puncture to the size needed for the access sheath. Each dilator follows the guidewire, keeping the tract on course to the collecting system."
+        ],
+        "image": {
+          "key": null,
+          "alt": "Dilator set in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Material",
+            "value": "TBC"
+          },
+          {
+            "label": "Working length",
+            "value": "TBC"
+          },
+          {
+            "label": "Size range",
+            "value": "TBC"
+          },
+          {
+            "label": "Tip design",
+            "value": "TBC"
+          },
+          {
+            "label": "Guidewire compatibility",
+            "value": "TBC"
+          },
+          {
+            "label": "Sterilisation",
+            "value": "TBC"
+          },
+          {
+            "label": "Shelf life",
+            "value": "TBC"
+          },
+          {
+            "label": "Packaging",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": [
+        {
+          "code": "TBC",
+          "size": "Size 1",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 2",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 3",
+          "length": "TBC",
+          "pack": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "stone-retrieval-basket",
+      "categoryId": "endourology",
+      "type": "Stone management",
+      "name": "Stone-retrieval basket",
+      "description": "Basket for capturing and extracting stone fragments in ureteroscopy and PCNL.",
+      "image": {
+        "key": null,
+        "alt": "Stone-retrieval basket"
+      },
+      "title": "Stone-retrieval",
+      "titleAccent": "Basket",
+      "tagline": "A basket for capturing and extracting stone fragments in ureteroscopy and PCNL.",
+      "keyBenefits": [
+        "Captures and holds stone fragments",
+        "For use through ureteroscopes and nephroscopes",
+        "Range of basket sizes"
+      ],
+      "sizes": [
+        "Size 1",
+        "Size 2",
+        "Size 3"
+      ],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "Clearing fragments, reliably.",
+        "paragraphs": [
+          "The stone-retrieval basket is passed through the working channel of the scope and opened around a stone or fragment. Once closed, the fragment is held securely and withdrawn."
+        ],
+        "image": {
+          "key": null,
+          "alt": "Stone-retrieval basket in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Basket material",
+            "value": "TBC"
+          },
+          {
+            "label": "Basket diameter",
+            "value": "TBC"
+          },
+          {
+            "label": "Sheath size",
+            "value": "TBC"
+          },
+          {
+            "label": "Working length",
+            "value": "TBC"
+          },
+          {
+            "label": "Wire configuration",
+            "value": "TBC"
+          },
+          {
+            "label": "Sterilisation",
+            "value": "TBC"
+          },
+          {
+            "label": "Shelf life",
+            "value": "TBC"
+          },
+          {
+            "label": "Packaging",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": [
+        {
+          "code": "TBC",
+          "size": "Size 1",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 2",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 3",
+          "length": "TBC",
+          "pack": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "convicath-male",
+      "categoryId": "continence-care",
+      "type": "ConviCath",
+      "name": "ConviCath male",
+      "description": "Hydrophilic intermittent catheter in male length for clean intermittent self-catheterisation.",
+      "image": {
+        "key": null,
+        "alt": "ConviCath male catheter"
+      },
+      "title": "ConviCath",
+      "titleAccent": "Male",
+      "tagline": "A hydrophilic intermittent catheter in male length, for patients who self-catheterise.",
+      "keyBenefits": [
+        "Hydrophilic coating for comfortable insertion",
+        "Male-length catheter",
+        "Designed for self-catheterisation"
+      ],
+      "sizes": [
+        "Size 1",
+        "Size 2",
+        "Size 3"
+      ],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "Comfort for every catheterisation.",
+        "paragraphs": [
+          "ConviCath Male is a hydrophilic-coated intermittent catheter in male length. The coating reduces friction on insertion and withdrawal, making repeated daily catheterisation more comfortable."
+        ],
+        "image": {
+          "key": null,
+          "alt": "ConviCath male in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Material",
+            "value": "TBC"
+          },
+          {
+            "label": "Catheter length",
+            "value": "TBC"
+          },
+          {
+            "label": "Size range",
+            "value": "TBC"
+          },
+          {
+            "label": "Tip",
+            "value": "TBC"
+          },
+          {
+            "label": "Coating",
+            "value": "TBC"
+          },
+          {
+            "label": "Sterilisation",
+            "value": "TBC"
+          },
+          {
+            "label": "Shelf life",
+            "value": "TBC"
+          },
+          {
+            "label": "Packaging",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": [
+        {
+          "code": "TBC",
+          "size": "Size 1",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 2",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 3",
+          "length": "TBC",
+          "pack": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "convicath-female",
+      "categoryId": "continence-care",
+      "type": "ConviCath",
+      "name": "ConviCath female",
+      "description": "Shorter female-length hydrophilic catheter for discreet intermittent use.",
+      "image": {
+        "key": null,
+        "alt": "ConviCath female catheter"
+      },
+      "title": "ConviCath",
+      "titleAccent": "Female",
+      "tagline": "A shorter, female-length hydrophilic catheter for discreet intermittent use.",
+      "keyBenefits": [
+        "Hydrophilic coating for comfortable insertion",
+        "Shorter female length",
+        "Discreet for everyday use"
+      ],
+      "sizes": [
+        "Size 1",
+        "Size 2",
+        "Size 3"
+      ],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "Shorter, simpler, more discreet.",
+        "paragraphs": [
+          "ConviCath Female is a hydrophilic intermittent catheter in a shorter female length. It is designed to be easy to handle and discreet to carry for everyday self-catheterisation."
+        ],
+        "image": {
+          "key": null,
+          "alt": "ConviCath female in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Material",
+            "value": "TBC"
+          },
+          {
+            "label": "Catheter length",
+            "value": "TBC"
+          },
+          {
+            "label": "Size range",
+            "value": "TBC"
+          },
+          {
+            "label": "Tip",
+            "value": "TBC"
+          },
+          {
+            "label": "Coating",
+            "value": "TBC"
+          },
+          {
+            "label": "Sterilisation",
+            "value": "TBC"
+          },
+          {
+            "label": "Shelf life",
+            "value": "TBC"
+          },
+          {
+            "label": "Packaging",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": [
+        {
+          "code": "TBC",
+          "size": "Size 1",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 2",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 3",
+          "length": "TBC",
+          "pack": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "convicath-tiemann",
+      "categoryId": "continence-care",
+      "type": "ConviCath",
+      "name": "ConviCath Tiemann tip",
+      "description": "Curved Tiemann tip for patients with strictures or a difficult urethral passage.",
+      "image": {
+        "key": null,
+        "alt": "ConviCath Tiemann tip catheter"
+      },
+      "title": "ConviCath",
+      "titleAccent": "Tiemann Tip",
+      "tagline": "A hydrophilic catheter with a curved Tiemann tip, for patients with strictures or a difficult urethral passage.",
+      "keyBenefits": [
+        "Curved Tiemann tip",
+        "For strictures and difficult passage",
+        "Hydrophilic coating"
+      ],
+      "sizes": [
+        "Size 1",
+        "Size 2",
+        "Size 3"
+      ],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "A curved tip for a difficult passage.",
+        "paragraphs": [
+          "ConviCath Tiemann Tip has a curved, tapered tip that helps the catheter follow the urethra past a stricture or enlarged prostate. It shares the hydrophilic coating of the rest of the ConviCath range."
+        ],
+        "image": {
+          "key": null,
+          "alt": "ConviCath Tiemann tip in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Material",
+            "value": "TBC"
+          },
+          {
+            "label": "Catheter length",
+            "value": "TBC"
+          },
+          {
+            "label": "Size range",
+            "value": "TBC"
+          },
+          {
+            "label": "Tip",
+            "value": "TBC"
+          },
+          {
+            "label": "Coating",
+            "value": "TBC"
+          },
+          {
+            "label": "Sterilisation",
+            "value": "TBC"
+          },
+          {
+            "label": "Shelf life",
+            "value": "TBC"
+          },
+          {
+            "label": "Packaging",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": [
+        {
+          "code": "TBC",
+          "size": "Size 1",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 2",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 3",
+          "length": "TBC",
+          "pack": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "clip-d",
+      "categoryId": "surgical-innovation",
+      "type": "Circumcision stapler",
+      "name": "CLIP D",
+      "description": "Disposable stapling device that standardises circumcision in a single step.",
+      "image": {
+        "key": null,
+        "alt": "CLIP D circumcision stapler"
+      },
+      "title": "CLIP",
+      "titleAccent": "D",
+      "tagline": "A disposable stapling device that standardises circumcision in a single step.",
+      "keyBenefits": [
+        "Single-step stapled circumcision",
+        "Single-use, no reprocessing",
+        "Range of sizes"
+      ],
+      "sizes": [
+        "Size 1",
+        "Size 2",
+        "Size 3",
+        "Size 4"
+      ],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "A routine procedure, made consistent.",
+        "paragraphs": [
+          "CLIP D is a disposable circumcision stapler that removes the foreskin and closes the wound in a single step. Using the same device and technique every time helps standardise a routine procedure between surgeons."
+        ],
+        "image": {
+          "key": null,
+          "alt": "CLIP D in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Device type",
+            "value": "TBC"
+          },
+          {
+            "label": "Size range",
+            "value": "TBC"
+          },
+          {
+            "label": "Material",
+            "value": "TBC"
+          },
+          {
+            "label": "Staple type",
+            "value": "TBC"
+          },
+          {
+            "label": "Sterilisation",
+            "value": "TBC"
+          },
+          {
+            "label": "Shelf life",
+            "value": "TBC"
+          },
+          {
+            "label": "Packaging",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": [
+        {
+          "code": "TBC",
+          "size": "Size 1",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 2",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 3",
+          "length": "TBC",
+          "pack": "TBC"
+        },
+        {
+          "code": "TBC",
+          "size": "Size 4",
+          "length": "TBC",
+          "pack": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "venus-3d-navigation",
+      "categoryId": "ot-imaging",
+      "type": "Venus",
+      "name": "Venus 3D navigation",
+      "description": "Real-time 3D navigation for guiding access and instruments inside the operating theatre.",
+      "image": {
+        "key": null,
+        "alt": "Venus 3D navigation system"
+      },
+      "title": "Venus 3D",
+      "titleAccent": "Navigation",
+      "tagline": "Real-time 3D navigation for guiding access and instruments inside the operating theatre.",
+      "keyBenefits": [
+        "Real-time 3D guidance",
+        "Follows instruments during the procedure",
+        "Designed for the operating theatre"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "Seeing the route before you take it.",
+        "paragraphs": [
+          "Venus 3D Navigation builds a three-dimensional view of the anatomy and tracks instruments against it in real time. It helps the surgeon plan and follow the route to the target during the procedure."
+        ],
+        "image": {
+          "key": null,
+          "alt": "Venus 3D navigation in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "System type",
+            "value": "TBC"
+          },
+          {
+            "label": "Imaging modes",
+            "value": "TBC"
+          },
+          {
+            "label": "Navigation",
+            "value": "TBC"
+          },
+          {
+            "label": "Display",
+            "value": "TBC"
+          },
+          {
+            "label": "Connectivity",
+            "value": "TBC"
+          },
+          {
+            "label": "Power supply",
+            "value": "TBC"
+          },
+          {
+            "label": "Dimensions",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "venus-fusion-ultrasound",
+      "categoryId": "ot-imaging",
+      "type": "Venus",
+      "name": "Venus fusion ultrasound",
+      "description": "Image-fusion ultrasound that overlays prior imaging on live ultrasound for targeted procedures.",
+      "image": {
+        "key": null,
+        "alt": "Venus fusion ultrasound system"
+      },
+      "title": "Venus Fusion",
+      "titleAccent": "Ultrasound",
+      "tagline": "Image-fusion ultrasound that overlays prior imaging on live ultrasound for targeted procedures.",
+      "keyBenefits": [
+        "Overlays MRI or CT on live ultrasound",
+        "Supports targeted access and biopsy",
+        "Designed for the operating theatre"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": {
+        "eyebrow": "Product overview",
+        "title": "Prior imaging, live in the procedure.",
+        "paragraphs": [
+          "Venus Fusion Ultrasound registers prior MRI or CT images to the live ultrasound view. The surgeon can see the target from the earlier scan while working under real-time ultrasound."
+        ],
+        "image": {
+          "key": null,
+          "alt": "Venus fusion ultrasound in use"
+        }
+      },
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "System type",
+            "value": "TBC"
+          },
+          {
+            "label": "Probe types",
+            "value": "TBC"
+          },
+          {
+            "label": "Imaging modes",
+            "value": "TBC"
+          },
+          {
+            "label": "Fusion modalities",
+            "value": "TBC"
+          },
+          {
+            "label": "Display",
+            "value": "TBC"
+          },
+          {
+            "label": "Connectivity",
+            "value": "TBC"
+          },
+          {
+            "label": "Power supply",
+            "value": "TBC"
+          }
+        ]
+      },
+      "variants": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  width: 100%;
+  height: 100%;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wide);
+  color: var(--color-gold-500);
+}
+
+.light {
+  background: var(--color-cream-50);
+  border: 1px dashed var(--color-border-gold);
+}
+
+.dark {
+  background: var(--color-navy-800);
+  border: 1px dashed var(--color-border-on-dark);
+}
+
+.light.striped {
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--color-cream-100) 0 22px,
+    var(--color-cream-50) 22px 44px
+  );
+}
+
+.dark.striped {
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--color-navy-800) 0 22px,
+    var(--color-navy-700) 22px 44px
+  );
+}

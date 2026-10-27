@@ -1,0 +1,55 @@
+.field {
+  display: inline-flex;
+  align-items: center;
+  height: 40px;
+  border-bottom: 1px solid transparent;
+  cursor: pointer;
+  transition: border-color var(--duration) var(--ease);
+}
+
+.field:focus-within {
+  border-bottom-color: var(--color-border-on-light);
+  cursor: text;
+}
+
+.iconWrap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  transition: background var(--duration) var(--ease);
+}
+
+.field:hover .iconWrap {
+  background: rgba(17, 17, 17, 0.05);
+}
+
+.icon {
+  width: 18px;
+  height: 18px;
+  color: var(--color-ink);
+}
+
+.input {
+  width: 0;
+  min-width: 0;
+  padding: 0;
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  background: transparent;
+  border: 0;
+  outline: none;
+  transition: width var(--duration) var(--ease);
+}
+
+.field:focus-within .input {
+  width: 180px;
+  padding-right: 0.25rem;
+}
+
+.input::placeholder {
+  color: var(--color-ink-muted);
+}

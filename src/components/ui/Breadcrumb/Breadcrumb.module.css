@@ -1,0 +1,25 @@
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wide);
+  color: var(--color-ink);
+}
+
+.breadcrumb li + li::before {
+  content: '/';
+  margin-inline: 0.75rem;
+}
+
+.breadcrumb a {
+  transition: color var(--duration) var(--ease);
+}
+
+.breadcrumb a:hover,
+.breadcrumb [aria-current='page'] {
+  color: var(--color-gold-500);
+}

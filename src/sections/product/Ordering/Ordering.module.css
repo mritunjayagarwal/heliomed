@@ -1,0 +1,52 @@
+.ordering {
+  padding-block: 3rem 5.5rem;
+  background: var(--color-cream-100);
+}
+
+.title {
+  margin-top: 1rem;
+  font-family: var(--font-serif);
+  font-size: clamp(1.5rem, 2.4vw, 1.875rem);
+  font-weight: 500;
+  color: var(--color-ink);
+}
+
+.scroller {
+  margin-top: 1.75rem;
+  overflow-x: auto;
+  border: 1px solid var(--color-ink-muted);
+}
+
+.table {
+  width: 100%;
+  min-width: 560px;
+  border-collapse: collapse;
+  font-size: var(--text-xs);
+  background: var(--color-cream-50);
+}
+
+.table thead {
+  background: var(--color-navy-950);
+}
+
+.table th,
+.table td {
+  padding: 0.85rem 1.25rem;
+  text-align: left;
+}
+
+.table th {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wide);
+  color: var(--color-white);
+}
+
+.table td {
+  color: var(--color-ink-muted);
+}
+
+.table tbody tr + tr td {
+  border-top: 1px solid var(--color-border-subtle-on-light);
+}

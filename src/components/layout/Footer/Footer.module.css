@@ -1,0 +1,121 @@
+.footer {
+  background: var(--color-cream-100);
+  color: var(--color-ink-muted);
+  font-size: var(--text-sm);
+}
+
+.top {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) repeat(2, minmax(0, 1fr)) minmax(0, 1.3fr);
+  gap: 3rem;
+  padding-block: 4.5rem 3.5rem;
+}
+
+.logo img {
+  height: 48px;
+  width: auto;
+}
+
+.tagline {
+  margin-top: 1.25rem;
+  max-width: 260px;
+  font-family: var(--font-serif);
+  font-size: var(--text-xl);
+  line-height: 1.35;
+  color: var(--color-ink);
+}
+
+.parent {
+  margin-top: 0.75rem;
+  font-size: var(--text-xs);
+}
+
+.socials {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.social {
+  display: inline-flex;
+  padding: 0.5rem;
+  border: 1px solid var(--color-border-on-light);
+  border-radius: var(--radius-pill);
+  transition:
+    color var(--duration) var(--ease),
+    border-color var(--duration) var(--ease);
+}
+
+.social svg {
+  width: 16px;
+  height: 16px;
+}
+
+.social:hover {
+  color: var(--color-gold-500);
+  border-color: var(--color-gold-500);
+}
+
+.links {
+  display: grid;
+  gap: 0.85rem;
+  margin-top: 1.25rem;
+}
+
+.link {
+  transition: color var(--duration) var(--ease);
+}
+
+.link:hover {
+  color: var(--color-gold-500);
+}
+
+.contactItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.icon {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  margin-top: 0.2rem;
+  color: var(--color-gold-500);
+}
+
+.address {
+  display: grid;
+  font-style: normal;
+  line-height: 1.6;
+}
+
+.bottom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem 2rem;
+  padding-block: 1.5rem 2rem;
+  border-top: 1px solid var(--color-border-subtle-on-light);
+  font-size: var(--text-xs);
+}
+
+.legal {
+  display: flex;
+  gap: 1.5rem;
+}
+
+@media (max-width: 960px) {
+  .top {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .top {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    padding-block: 3.5rem 2.5rem;
+  }
+}

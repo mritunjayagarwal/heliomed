@@ -1,0 +1,46 @@
+.card {
+  max-width: 340px;
+}
+
+.number {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: var(--text-xl);
+  font-variant-numeric: oldstyle-nums;
+  color: var(--color-gold-500);
+}
+
+.title {
+  margin-top: 0.25rem;
+  font-family: var(--font-sans);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  color: var(--color-white);
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: 1rem;
+  transition: color var(--duration) var(--ease);
+}
+
+.arrow {
+  color: var(--color-gold-500);
+  transition: transform var(--duration) var(--ease);
+}
+
+.link:hover {
+  color: var(--color-gold-400);
+}
+
+.link:hover .arrow {
+  transform: translateX(4px);
+}
+
+.description {
+  margin-top: 0.75rem;
+  font-size: var(--text-sm);
+  line-height: 1.6;
+  color: var(--color-on-dark-muted);
+}

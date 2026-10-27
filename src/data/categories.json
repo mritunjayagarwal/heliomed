@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "id": "endourology",
+      "name": "Endourology & PCNL",
+      "hero": {
+        "title": "Endourology &",
+        "titleAccent": "PCNL",
+        "lead": "Ureteral access sheaths, tear-away sheaths, dilator sets and stone-retrieval devices for ureteroscopy and percutaneous procedures."
+      },
+      "procedures": {
+        "eyebrow": "Procedures supported",
+        "title": "Where these devices are used",
+        "image": {
+          "key": null,
+          "alt": "Endourology procedure in the operating theatre"
+        },
+        "items": [
+          {
+            "label": "Percutaneous nephrolithotomy (PCNL)",
+            "href": "#products"
+          },
+          {
+            "label": "Mini-PCNL",
+            "href": "#products"
+          },
+          {
+            "label": "Ureteroscopy (URS)",
+            "href": "#products"
+          },
+          {
+            "label": "Retrograde intrarenal surgery (RIRS)",
+            "href": "#products"
+          }
+        ]
+      },
+      "products": {
+        "eyebrow": "Products",
+        "title": "Products used in Endourology & PCNL",
+        "lead": "Every device in the range is available to order or quote through our team."
+      },
+      "benefits": {
+        "eyebrow": "Why HelioMed",
+        "title": "Built for faster, more predictable stone access.",
+        "items": [
+          {
+            "title": "Consistent access",
+            "description": "Sheaths and dilators sized to hold a stable working channel through the procedure."
+          },
+          {
+            "title": "Shorter OT time",
+            "description": "Fewer device exchanges between access, dilation and stone retrieval."
+          },
+          {
+            "title": "One supplier for the set",
+            "description": "Access, dilation and retrieval devices from a single HelioMed range."
+          }
+        ]
+      },
+      "overview": {
+        "description": "Devices for reaching and clearing kidney and ureteral stones, from first access to the last fragment. The range supports ureteroscopy, RIRS and percutaneous procedures for urologists and endourology teams.",
+        "highlights": [
+          "Access sheaths for ureteroscopy and PCNL",
+          "Graduated dilation for standard and mini-PCNL",
+          "Stone retrieval through scope working channels"
+        ],
+        "image": {
+          "key": null,
+          "alt": "Endourology procedure in the operating theatre"
+        }
+      }
+    },
+    {
+      "id": "continence-care",
+      "name": "Continence Care",
+      "hero": {
+        "title": "Continence",
+        "titleAccent": "Care",
+        "lead": "The ConviCath® hydrophilic intermittent catheter range, across male, female and Tiemann tip configurations."
+      },
+      "procedures": {
+        "eyebrow": "Procedures supported",
+        "title": "Where these devices are used",
+        "image": {
+          "key": null,
+          "alt": "Intermittent catheterisation care"
+        },
+        "items": [
+          {
+            "label": "Clean intermittent self-catheterisation",
+            "href": "#products"
+          },
+          {
+            "label": "Neurogenic bladder management",
+            "href": "#products"
+          },
+          {
+            "label": "Urinary retention",
+            "href": "#products"
+          },
+          {
+            "label": "Urethral stricture management",
+            "href": "#products"
+          }
+        ]
+      },
+      "products": {
+        "eyebrow": "Products",
+        "title": "Products used in Continence Care",
+        "lead": "Every device in the range is available to order or quote through our team."
+      },
+      "benefits": {
+        "eyebrow": "Why HelioMed",
+        "title": "Comfortable catheterisation, every day.",
+        "items": [
+          {
+            "title": "Hydrophilic coating",
+            "description": "Low-friction surface for more comfortable insertion and withdrawal."
+          },
+          {
+            "title": "Tip for every patient",
+            "description": "Male, female and Tiemann tip configurations across the range."
+          },
+          {
+            "title": "Built for self-care",
+            "description": "Designed for patients performing intermittent catheterisation at home."
+          }
+        ]
+      },
+      "overview": {
+        "description": "The ConviCath range of hydrophilic intermittent catheters, for patients who self-catheterise and the continence teams who support them.",
+        "highlights": [
+          "Hydrophilic coating for comfortable insertion",
+          "Male, female and Tiemann tip options",
+          "Designed for everyday self-catheterisation"
+        ],
+        "image": {
+          "key": null,
+          "alt": "Intermittent catheterisation care"
+        }
+      }
+    },
+    {
+      "id": "surgical-innovation",
+      "name": "Surgical Innovation",
+      "hero": {
+        "title": "Surgical",
+        "titleAccent": "Innovation",
+        "lead": "CLIP D, a disposable circumcision stapling device designed to standardise a routine procedure."
+      },
+      "procedures": {
+        "eyebrow": "Procedures supported",
+        "title": "Where these devices are used",
+        "image": {
+          "key": null,
+          "alt": "CLIP D circumcision stapler in use"
+        },
+        "items": [
+          {
+            "label": "Adult circumcision",
+            "href": "#products"
+          },
+          {
+            "label": "Paediatric circumcision",
+            "href": "#products"
+          },
+          {
+            "label": "Phimosis",
+            "href": "#products"
+          },
+          {
+            "label": "Redundant prepuce",
+            "href": "#products"
+          }
+        ]
+      },
+      "products": {
+        "eyebrow": "Products",
+        "title": "Products used in Surgical Innovation",
+        "lead": "Every device in the range is available to order or quote through our team."
+      },
+      "benefits": {
+        "eyebrow": "Why HelioMed",
+        "title": "A routine procedure, made consistent.",
+        "items": [
+          {
+            "title": "Standardised technique",
+            "description": "A single-step stapling procedure that gives consistent results between surgeons."
+          },
+          {
+            "title": "Single-use",
+            "description": "Disposable device with no reprocessing between cases."
+          },
+          {
+            "title": "Faster procedure",
+            "description": "Designed to keep operating time short for a routine procedure."
+          }
+        ]
+      },
+      "overview": {
+        "description": "CLIP D, a disposable stapling device that brings a consistent technique to circumcision for urologists and general surgeons.",
+        "highlights": [
+          "Single-step stapled circumcision",
+          "Single-use, with no reprocessing",
+          "Available in a range of sizes"
+        ],
+        "image": {
+          "key": null,
+          "alt": "CLIP D circumcision stapler"
+        }
+      }
+    },
+    {
+      "id": "ot-imaging",
+      "name": "OT Imaging",
+      "hero": {
+        "title": "OT",
+        "titleAccent": "Imaging",
+        "lead": "Venus 3D navigation and image-fusion ultrasound, built for real-time guidance inside the operating theatre."
+      },
+      "procedures": {
+        "eyebrow": "Procedures supported",
+        "title": "Where these devices are used",
+        "image": {
+          "key": null,
+          "alt": "Venus imaging system in the operating theatre"
+        },
+        "items": [
+          {
+            "label": "Ultrasound-guided PCNL access",
+            "href": "#products"
+          },
+          {
+            "label": "MRI–ultrasound fusion prostate biopsy",
+            "href": "#products"
+          },
+          {
+            "label": "Intraoperative 3D navigation",
+            "href": "#products"
+          },
+          {
+            "label": "Renal stone localisation",
+            "href": "#products"
+          }
+        ]
+      },
+      "products": {
+        "eyebrow": "Products",
+        "title": "Products used in OT Imaging",
+        "lead": "Every device in the range is available to order or quote through our team."
+      },
+      "benefits": {
+        "eyebrow": "Why HelioMed",
+        "title": "Clearer guidance inside the operating theatre.",
+        "items": [
+          {
+            "title": "Real-time guidance",
+            "description": "Live imaging that follows instruments during the procedure."
+          },
+          {
+            "title": "Image fusion",
+            "description": "Prior MRI or CT overlaid on live ultrasound for targeted access."
+          },
+          {
+            "title": "Built for the OT",
+            "description": "A compact system designed to sit inside the operating theatre workflow."
+          }
+        ]
+      },
+      "overview": {
+        "description": "The Venus imaging systems, giving surgical teams real-time 3D navigation and image-fusion ultrasound inside the operating theatre.",
+        "highlights": [
+          "Real-time 3D navigation",
+          "MRI and CT fusion with live ultrasound",
+          "Built for the operating theatre workflow"
+        ],
+        "image": {
+          "key": null,
+          "alt": "Venus imaging system in the operating theatre"
+        }
+      }
+    }
+  ]
+}
