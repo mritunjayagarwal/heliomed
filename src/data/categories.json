@@ -3,34 +3,70 @@
     {
       "id": "endourology",
       "name": "Endourology & PCNL",
+      "subcategories": [
+        {
+          "shortName": "Flexible ureteroscopes",
+          "eyebrow": "Visualisation · RIRS / URS",
+          "title": "Flexible ureteroscopes",
+          "description": "Single-use digital scopes, 6.3 to 8.6 Fr. Used with a Redpine video processor.",
+          "summary": "Single-use, 6.3–8.6 Fr, for RIRS and URS",
+          "id": "flexible-ureteroscopes",
+          "name": "Flexible ureteroscopes"
+        },
+        {
+          "shortName": "Cystoscopes & nephroscopes",
+          "eyebrow": "Visualisation · Cystoscopy / PCNL",
+          "title": "Cystoscopes & nephroscopes",
+          "description": "Flexible and rigid single-use scopes for the bladder and the PCNL tract.",
+          "summary": "Flexible, rigid and mini-PCNL scopes",
+          "id": "cystoscopes-nephroscopes",
+          "name": "Cystoscopes & nephroscopes"
+        },
+        {
+          "shortName": "Accessories",
+          "eyebrow": "Endoscopic accessories",
+          "title": "Biopsy forceps & scissors",
+          "description": "Single-use instruments for rigid cystoscopes and the nephroscope. Register now and our team will contact you when stock arrives.",
+          "summary": "Biopsy forceps and scissors",
+          "id": "endoscopic-accessories",
+          "name": "Endoscopic accessories"
+        }
+      ],
       "hero": {
         "title": "Endourology &",
         "titleAccent": "PCNL",
-        "lead": "Ureteral access sheaths, tear-away sheaths, dilator sets and stone-retrieval devices for ureteroscopy and percutaneous procedures."
+        "headline": "Single-use scopes for RIRS, PCNL and cystoscopy.",
+        "lead": "Flexible ureteroscopes, cystoscopes and nephroscopes — with the video processors that run them.",
+        "image": {
+          "key": null,
+          "alt": "Scope in OT"
+        }
       },
       "procedures": {
         "eyebrow": "Procedures supported",
-        "title": "Where these devices are used",
+        "title": "Shop by procedure",
         "image": {
           "key": null,
           "alt": "Endourology procedure in the operating theatre"
         },
         "items": [
           {
-            "label": "Percutaneous nephrolithotomy (PCNL)",
-            "href": "#products"
+            "id": "rirs-urs",
+            "label": "RIRS / URS",
+            "href": "#products",
+            "uses": "Flexible ureteroscope · video processor"
           },
           {
+            "id": "mini-pcnl",
             "label": "Mini-PCNL",
-            "href": "#products"
+            "href": "#products",
+            "uses": "Mini-PCNL nephroscope · flexible cysto-nephroscope · video processor"
           },
           {
-            "label": "Ureteroscopy (URS)",
-            "href": "#products"
-          },
-          {
-            "label": "Retrograde intrarenal surgery (RIRS)",
-            "href": "#products"
+            "id": "cystoscopy",
+            "label": "Cystoscopy",
+            "href": "#products",
+            "uses": "Flexible and rigid cystoscopes · video processor · biopsy forceps (coming soon)"
           }
         ]
       },
@@ -41,28 +77,28 @@
       },
       "benefits": {
         "eyebrow": "Why HelioMed",
-        "title": "Built for faster, more predictable stone access.",
+        "title": "Single-use scopes, with the system that runs them.",
         "items": [
           {
-            "title": "Consistent access",
-            "description": "Sheaths and dilators sized to hold a stable working channel through the procedure."
+            "title": "Single-use, no reprocessing",
+            "description": "A sterile scope every case, full deflection every time."
           },
           {
-            "title": "Shorter OT time",
-            "description": "Fewer device exchanges between access, dilation and stone retrieval."
+            "title": "Scope and processor, one supplier",
+            "description": "Every scope and the system that runs it from one team."
           },
           {
-            "title": "One supplier for the set",
-            "description": "Access, dilation and retrieval devices from a single HelioMed range."
+            "title": "OT demo on request",
+            "description": "Our team sets up and supports your first case."
           }
         ]
       },
       "overview": {
-        "description": "Devices for reaching and clearing kidney and ureteral stones, from first access to the last fragment. The range supports ureteroscopy, RIRS and percutaneous procedures for urologists and endourology teams.",
+        "description": "Single-use scopes for RIRS, PCNL and cystoscopy: flexible ureteroscopes, cystoscopes and nephroscopes, with the video processors that run them.",
         "highlights": [
-          "Access sheaths for ureteroscopy and PCNL",
-          "Graduated dilation for standard and mini-PCNL",
-          "Stone retrieval through scope working channels"
+          "Flexible ureteroscopes for RIRS and URS",
+          "Cystoscopes and nephroscopes for the bladder and the PCNL tract",
+          "Scope and video processor from one supplier"
         ],
         "image": {
           "key": null,
@@ -73,6 +109,17 @@
     {
       "id": "continence-care",
       "name": "Continence Care",
+      "subcategories": [
+        {
+          "shortName": null,
+          "eyebrow": null,
+          "title": null,
+          "description": null,
+          "summary": null,
+          "id": "convicath",
+          "name": "ConviCath"
+        }
+      ],
       "hero": {
         "title": "Continence",
         "titleAccent": "Care",
@@ -87,20 +134,28 @@
         },
         "items": [
           {
+            "id": "clean-intermittent-self-catheterisation",
             "label": "Clean intermittent self-catheterisation",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "neurogenic-bladder-management",
             "label": "Neurogenic bladder management",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "urinary-retention",
             "label": "Urinary retention",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "urethral-stricture-management",
             "label": "Urethral stricture management",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           }
         ]
       },
@@ -143,6 +198,17 @@
     {
       "id": "surgical-innovation",
       "name": "Surgical Innovation",
+      "subcategories": [
+        {
+          "shortName": null,
+          "eyebrow": null,
+          "title": null,
+          "description": null,
+          "summary": null,
+          "id": "circumcision-stapler",
+          "name": "Circumcision stapler"
+        }
+      ],
       "hero": {
         "title": "Surgical",
         "titleAccent": "Innovation",
@@ -157,20 +223,28 @@
         },
         "items": [
           {
+            "id": "adult-circumcision",
             "label": "Adult circumcision",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "paediatric-circumcision",
             "label": "Paediatric circumcision",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "phimosis",
             "label": "Phimosis",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "redundant-prepuce",
             "label": "Redundant prepuce",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           }
         ]
       },
@@ -213,6 +287,26 @@
     {
       "id": "ot-imaging",
       "name": "OT Imaging",
+      "subcategories": [
+        {
+          "shortName": null,
+          "eyebrow": null,
+          "title": null,
+          "description": null,
+          "summary": null,
+          "id": "venus",
+          "name": "Venus"
+        },
+        {
+          "shortName": "Video processors",
+          "eyebrow": "Required for Redpine scopes",
+          "title": "Video processors",
+          "description": "Every Redpine scope works only with a Redpine processor. Full listing under OT Imaging.",
+          "summary": "Required to run Redpine scopes",
+          "id": "video-processors",
+          "name": "Video processors"
+        }
+      ],
       "hero": {
         "title": "OT",
         "titleAccent": "Imaging",
@@ -227,20 +321,28 @@
         },
         "items": [
           {
+            "id": "ultrasound-guided-pcnl-access",
             "label": "Ultrasound-guided PCNL access",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "mri-ultrasound-fusion-prostate-biopsy",
             "label": "MRI–ultrasound fusion prostate biopsy",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "intraoperative-3d-navigation",
             "label": "Intraoperative 3D navigation",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           },
           {
+            "id": "renal-stone-localisation",
             "label": "Renal stone localisation",
-            "href": "#products"
+            "href": "#products",
+            "uses": null
           }
         ]
       },

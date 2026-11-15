@@ -1,6 +1,5 @@
 import { Navigate, useParams } from 'react-router'
-import { categories } from '@/data/categories.json'
-import { products } from '@/data/products.json'
+import { categories, products, subcategoryName } from '@/data/catalog'
 import { ContactCta } from '@/sections/home/ContactCta/ContactCta'
 import { Ordering } from '@/sections/product/Ordering/Ordering'
 import { Overview } from '@/sections/product/Overview/Overview'
@@ -26,7 +25,7 @@ export function ProductPage() {
           { label: category.name, href: `/products/${category.id}` },
           { label: product.name },
         ]}
-        eyebrow={`${category.name} · ${product.type}`}
+        eyebrow={`${category.name} · ${subcategoryName(product.subcategoryId)}`}
         title={product.title}
         titleAccent={product.titleAccent}
         tagline={product.tagline}
@@ -35,11 +34,11 @@ export function ProductPage() {
         brochure={product.brochure}
         image={product.image}
       />
-      <Overview {...product.overview} />
-      <Specifications {...product.specs} />
+      {product.overview && <Overview {...product.overview} />}
+      {product.specs && <Specifications {...product.specs} />}
       {product.variants.length > 0 && <Ordering variants={product.variants} />}
       <ContactCta
-        title={`Interested in the ${product.title} ${product.titleAccent}?`}
+        title={`Interested in the ${`${product.title} ${product.titleAccent}`.trim()}?`}
         body="Request pricing, samples or a demonstration, and our team will come back to you."
       />
     </>

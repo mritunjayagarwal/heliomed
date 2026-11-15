@@ -1,413 +1,847 @@
 {
   "products": [
     {
-      "id": "ureteral-access-sheath",
+      "id": "flexible-ureteroscope-6-3-fr",
+      "code": "RP-U-C04",
+      "name": "Flexible ureteroscope · 6.3 Fr",
+      "description": "Slimmest scope in the range for RIRS and flexible ureteroscopy.",
       "categoryId": "endourology",
-      "type": "Access",
-      "name": "Ureteral access sheath",
-      "description": "Maintains a working channel to the upper tract during ureteroscopy and RIRS.",
+      "subcategoryId": "flexible-ureteroscopes",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [
+        "rirs-urs"
+      ],
+      "tag": "Slimmest",
+      "variantLabel": null,
+      "chips": [
+        "6.3 Fr",
+        "3.3 Fr channel",
+        "275°"
+      ],
+      "requires": "Redpine processor",
+      "order": 1,
       "image": {
-        "key": null,
-        "alt": "Ureteral access sheath"
+        "key": "flexible-ureteroscope-6-3-fr",
+        "alt": "Flexible ureteroscope · 6.3 Fr"
       },
-      "title": "Ureteral Access",
-      "titleAccent": "Sheath",
-      "tagline": "A ureteral access sheath that holds a working channel to the upper tract, so the ureteroscope can pass in and out through the procedure.",
+      "title": "Single-Use Video Flexible Ureterorenoscope, 6.3 Fr",
+      "titleAccent": "",
+      "tagline": "Slimmest scope in the range for RIRS and flexible ureteroscopy.",
       "keyBenefits": [
-        "Stable working channel through ureteroscopy and RIRS",
-        "Supports repeated scope passes",
-        "Range of sizes to suit the ureter"
+        "Thick-wall insertion tube for pushability",
+        "Integrated T-valve",
+        "Suited to small suction and bendable access sheaths"
       ],
-      "sizes": [
-        "Size 1",
-        "Size 2",
-        "Size 3",
-        "Size 4"
-      ],
+      "sizes": [],
       "brochure": null,
-      "overview": {
-        "eyebrow": "Product overview",
-        "title": "A steady channel for every scope pass.",
-        "paragraphs": [
-          "The ureteral access sheath is placed over a guidewire to give the ureteroscope a fixed route to the kidney. It keeps the channel open while the scope is passed in and out, and allows irrigation to drain during the procedure."
-        ],
-        "image": {
-          "key": null,
-          "alt": "Ureteral access sheath in use"
-        }
-      },
+      "overview": null,
       "specs": {
         "eyebrow": "Specifications",
         "title": "Technical specifications",
-        "note": "Full datasheet available on request through our team.",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
         "rows": [
-          {
-            "label": "Material",
-            "value": "TBC"
-          },
-          {
-            "label": "Working length",
-            "value": "TBC"
-          },
-          {
-            "label": "Inner diameter",
-            "value": "TBC"
-          },
           {
             "label": "Outer diameter",
-            "value": "TBC"
+            "value": "6.3 Fr · 2.1 mm",
+            "highlight": false
           },
           {
-            "label": "Tip design",
-            "value": "TBC"
+            "label": "Working channel",
+            "value": "3.3 Fr · 1.1 mm",
+            "highlight": false
           },
           {
-            "label": "Coating",
-            "value": "TBC"
+            "label": "Deflection up / down",
+            "value": "275°",
+            "highlight": false
           },
           {
-            "label": "Sterilisation",
-            "value": "TBC"
+            "label": "Depth of field",
+            "value": "3–50 mm",
+            "highlight": false
           },
           {
-            "label": "Shelf life",
-            "value": "TBC"
+            "label": "Working length · field of view",
+            "value": "670 mm · 120°",
+            "highlight": false
           },
           {
-            "label": "Packaging",
-            "value": "TBC"
+            "label": "Handling",
+            "value": "Integrated T-valve",
+            "highlight": false
+          },
+          {
+            "label": "Best for",
+            "value": "Suction sheaths, tight ureters",
+            "highlight": false
           }
         ]
       },
-      "variants": [
-        {
-          "code": "TBC",
-          "size": "Size 1",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 2",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 3",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 4",
-          "length": "TBC",
-          "pack": "TBC"
-        }
-      ]
+      "variants": []
     },
     {
-      "id": "tear-away-sheath",
+      "id": "flexible-ureteroscope-7-5-fr-gen-2",
+      "code": "RP-U-C03",
+      "name": "Flexible ureteroscope · 7.5 Fr (gen 2)",
+      "description": "Everyday RIRS scope with the highest deflection in the range.",
       "categoryId": "endourology",
-      "type": "Access",
-      "name": "Tear-away sheath",
-      "description": "Peel-away sheath for establishing and holding percutaneous renal access in PCNL.",
+      "subcategoryId": "flexible-ureteroscopes",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [
+        "rirs-urs"
+      ],
+      "tag": "Workhorse",
+      "variantLabel": "gen 2",
+      "chips": [
+        "7.5 Fr",
+        "3.6 Fr channel",
+        "285°"
+      ],
+      "requires": "Redpine processor",
+      "order": 2,
       "image": {
-        "key": null,
-        "alt": "Tear-away sheath"
+        "key": "flexible-ureteroscope-7-5-fr-gen-2",
+        "alt": "Flexible ureteroscope · 7.5 Fr (gen 2)"
       },
-      "title": "Tear-away",
-      "titleAccent": "Sheath",
-      "tagline": "A peel-away sheath for establishing percutaneous renal access in PCNL, removed by splitting it once the tract is in place.",
+      "title": "Single-Use Video Flexible Ureterorenoscope, 7.5 Fr (2nd generation)",
+      "titleAccent": "",
+      "tagline": "Everyday RIRS scope with the highest deflection in the range.",
       "keyBenefits": [
-        "Holds the percutaneous tract open",
-        "Splits cleanly for removal",
-        "Suited to standard and mini-PCNL"
+        "285° up/down deflection, the highest in the range",
+        "Customisable handle buttons for freeze, snapshot and video",
+        "Integrated T-valve"
       ],
-      "sizes": [
-        "Size 1",
-        "Size 2",
-        "Size 3",
-        "Size 4"
-      ],
+      "sizes": [],
       "brochure": null,
-      "overview": {
-        "eyebrow": "Product overview",
-        "title": "Access that steps aside when it is done.",
-        "paragraphs": [
-          "The tear-away sheath is introduced over a dilator to hold the percutaneous tract to the kidney. Once access is established it is split along its length and peeled away, leaving the tract undisturbed."
-        ],
-        "image": {
-          "key": null,
-          "alt": "Tear-away sheath in use"
-        }
-      },
+      "overview": null,
       "specs": {
         "eyebrow": "Specifications",
         "title": "Technical specifications",
-        "note": "Full datasheet available on request through our team.",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
         "rows": [
-          {
-            "label": "Material",
-            "value": "TBC"
-          },
-          {
-            "label": "Working length",
-            "value": "TBC"
-          },
-          {
-            "label": "Inner diameter",
-            "value": "TBC"
-          },
           {
             "label": "Outer diameter",
-            "value": "TBC"
+            "value": "7.5 Fr · 2.5 mm",
+            "highlight": false
           },
           {
-            "label": "Tip design",
-            "value": "TBC"
+            "label": "Working channel",
+            "value": "3.6 Fr · 1.2 mm",
+            "highlight": false
           },
           {
-            "label": "Coating",
-            "value": "TBC"
+            "label": "Deflection up / down",
+            "value": "285°",
+            "highlight": true
           },
           {
-            "label": "Sterilisation",
-            "value": "TBC"
+            "label": "Depth of field",
+            "value": "3–50 mm",
+            "highlight": false
           },
           {
-            "label": "Shelf life",
-            "value": "TBC"
+            "label": "Working length · field of view",
+            "value": "670 mm · 120°",
+            "highlight": false
           },
           {
-            "label": "Packaging",
-            "value": "TBC"
+            "label": "Handling",
+            "value": "Buttons · T-valve",
+            "highlight": false
+          },
+          {
+            "label": "Best for",
+            "value": "Routine RIRS",
+            "highlight": false
           }
         ]
       },
-      "variants": [
-        {
-          "code": "TBC",
-          "size": "Size 1",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 2",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 3",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 4",
-          "length": "TBC",
-          "pack": "TBC"
-        }
-      ]
+      "variants": []
     },
     {
-      "id": "dilator-set",
+      "id": "flexible-ureteroscope-7-5-fr-gen-1",
+      "code": "RP-U-C0305",
+      "name": "Flexible ureteroscope · 7.5 Fr (gen 1)",
+      "description": "Value RIRS scope with angle lock (braking design).",
       "categoryId": "endourology",
-      "type": "Access",
-      "name": "Dilator set",
-      "description": "Graduated dilators for controlled tract dilation in standard and mini-PCNL.",
+      "subcategoryId": "flexible-ureteroscopes",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [
+        "rirs-urs"
+      ],
+      "tag": "Value",
+      "variantLabel": "gen 1",
+      "chips": [
+        "7.5 Fr",
+        "3.6 Fr channel",
+        "Angle lock"
+      ],
+      "requires": "Redpine processor",
+      "order": 3,
       "image": {
-        "key": null,
-        "alt": "Dilator set"
+        "key": "flexible-ureteroscope-7-5-fr-gen-1",
+        "alt": "Flexible ureteroscope · 7.5 Fr (gen 1)"
       },
-      "title": "Dilator",
-      "titleAccent": "Set",
-      "tagline": "Graduated dilators for controlled, step-by-step tract dilation in standard and mini-PCNL.",
+      "title": "Single-Use Video Flexible Ureterorenoscope, 7.5 Fr (1st generation)",
+      "titleAccent": "",
+      "tagline": "Value RIRS scope with angle lock (braking design).",
       "keyBenefits": [
-        "Graduated sizes for stepwise dilation",
-        "Passes over a standard guidewire",
-        "For standard and mini-PCNL"
+        "Angle lock (braking design)",
+        "Transparent distal tip with CMOS camera and LED",
+        "Lightweight handle"
       ],
-      "sizes": [
-        "Size 1",
-        "Size 2",
-        "Size 3"
-      ],
+      "sizes": [],
       "brochure": null,
-      "overview": {
-        "eyebrow": "Product overview",
-        "title": "Controlled dilation, one step at a time.",
-        "paragraphs": [
-          "The dilator set widens the percutaneous tract in stages, from the initial puncture to the size needed for the access sheath. Each dilator follows the guidewire, keeping the tract on course to the collecting system."
-        ],
-        "image": {
-          "key": null,
-          "alt": "Dilator set in use"
-        }
-      },
+      "overview": null,
       "specs": {
         "eyebrow": "Specifications",
         "title": "Technical specifications",
-        "note": "Full datasheet available on request through our team.",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
         "rows": [
           {
-            "label": "Material",
-            "value": "TBC"
+            "label": "Outer diameter",
+            "value": "7.5 Fr · 2.5 mm",
+            "highlight": false
           },
           {
-            "label": "Working length",
-            "value": "TBC"
+            "label": "Working channel",
+            "value": "3.6 Fr · 1.2 mm",
+            "highlight": false
           },
           {
-            "label": "Size range",
-            "value": "TBC"
+            "label": "Deflection up / down",
+            "value": "275°",
+            "highlight": false
           },
           {
-            "label": "Tip design",
-            "value": "TBC"
+            "label": "Depth of field",
+            "value": "5–50 mm",
+            "highlight": false
           },
           {
-            "label": "Guidewire compatibility",
-            "value": "TBC"
+            "label": "Working length · field of view",
+            "value": "670 mm · 120°",
+            "highlight": false
           },
           {
-            "label": "Sterilisation",
-            "value": "TBC"
+            "label": "Handling",
+            "value": "Angle lock",
+            "highlight": false
           },
           {
-            "label": "Shelf life",
-            "value": "TBC"
-          },
-          {
-            "label": "Packaging",
-            "value": "TBC"
+            "label": "Best for",
+            "value": "Long lower-pole work, value",
+            "highlight": false
           }
         ]
       },
-      "variants": [
-        {
-          "code": "TBC",
-          "size": "Size 1",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 2",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 3",
-          "length": "TBC",
-          "pack": "TBC"
-        }
-      ]
+      "variants": []
     },
     {
-      "id": "stone-retrieval-basket",
+      "id": "flexible-ureteroscope-8-6-fr",
+      "code": "RP-U-C0304",
+      "name": "Flexible ureteroscope · 8.6 Fr",
+      "description": "Entry-level RIRS scope with angle lock.",
       "categoryId": "endourology",
-      "type": "Stone management",
-      "name": "Stone-retrieval basket",
-      "description": "Basket for capturing and extracting stone fragments in ureteroscopy and PCNL.",
+      "subcategoryId": "flexible-ureteroscopes",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [
+        "rirs-urs"
+      ],
+      "tag": "Entry",
+      "variantLabel": null,
+      "chips": [
+        "8.6 Fr",
+        "3.6 Fr channel",
+        "Angle lock"
+      ],
+      "requires": "Redpine processor",
+      "order": 4,
       "image": {
-        "key": null,
-        "alt": "Stone-retrieval basket"
+        "key": "flexible-ureteroscope-8-6-fr",
+        "alt": "Flexible ureteroscope · 8.6 Fr"
       },
-      "title": "Stone-retrieval",
-      "titleAccent": "Basket",
-      "tagline": "A basket for capturing and extracting stone fragments in ureteroscopy and PCNL.",
+      "title": "Single-Use Video Flexible Ureterorenoscope, 8.6 Fr",
+      "titleAccent": "",
+      "tagline": "Entry-level RIRS scope with angle lock.",
       "keyBenefits": [
-        "Captures and holds stone fragments",
-        "For use through ureteroscopes and nephroscopes",
-        "Range of basket sizes"
+        "Angle lock",
+        "Distal CMOS camera and LED",
+        "Reusable (non-disposable) video cable"
       ],
-      "sizes": [
-        "Size 1",
-        "Size 2",
-        "Size 3"
-      ],
+      "sizes": [],
       "brochure": null,
-      "overview": {
-        "eyebrow": "Product overview",
-        "title": "Clearing fragments, reliably.",
-        "paragraphs": [
-          "The stone-retrieval basket is passed through the working channel of the scope and opened around a stone or fragment. Once closed, the fragment is held securely and withdrawn."
-        ],
-        "image": {
-          "key": null,
-          "alt": "Stone-retrieval basket in use"
-        }
-      },
+      "overview": null,
       "specs": {
         "eyebrow": "Specifications",
         "title": "Technical specifications",
-        "note": "Full datasheet available on request through our team.",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
         "rows": [
           {
-            "label": "Basket material",
-            "value": "TBC"
+            "label": "Outer diameter",
+            "value": "8.6 Fr · 2.85 mm",
+            "highlight": false
           },
           {
-            "label": "Basket diameter",
-            "value": "TBC"
+            "label": "Working channel",
+            "value": "3.6 Fr · 1.2 mm",
+            "highlight": false
           },
           {
-            "label": "Sheath size",
-            "value": "TBC"
+            "label": "Deflection up / down",
+            "value": "275°",
+            "highlight": false
           },
           {
-            "label": "Working length",
-            "value": "TBC"
+            "label": "Depth of field",
+            "value": "5–50 mm",
+            "highlight": false
           },
           {
-            "label": "Wire configuration",
-            "value": "TBC"
+            "label": "Working length · field of view",
+            "value": "670 mm · 120°",
+            "highlight": false
           },
           {
-            "label": "Sterilisation",
-            "value": "TBC"
+            "label": "Handling",
+            "value": "Angle lock",
+            "highlight": false
           },
           {
-            "label": "Shelf life",
-            "value": "TBC"
-          },
-          {
-            "label": "Packaging",
-            "value": "TBC"
+            "label": "Best for",
+            "value": "Price-led accounts",
+            "highlight": false
           }
         ]
       },
-      "variants": [
-        {
-          "code": "TBC",
-          "size": "Size 1",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 2",
-          "length": "TBC",
-          "pack": "TBC"
-        },
-        {
-          "code": "TBC",
-          "size": "Size 3",
-          "length": "TBC",
-          "pack": "TBC"
-        }
-      ]
+      "variants": []
+    },
+    {
+      "id": "hd-flexible-cysto-nephroscope",
+      "code": "RP-U-C01F / RP-U-C01FS",
+      "name": "HD flexible cysto-nephroscope",
+      "description": "HD flexible scope for cystoscopy and for nephroscopy through a PCNL tract.",
+      "categoryId": "endourology",
+      "subcategoryId": "cystoscopes-nephroscopes",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [
+        "mini-pcnl",
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [
+        "15 Fr",
+        "225°",
+        "1000×1000"
+      ],
+      "requires": "Redpine processor",
+      "order": 5,
+      "image": {
+        "key": "hd-flexible-cysto-nephroscope",
+        "alt": "HD flexible cysto-nephroscope"
+      },
+      "title": "Single-Use Video Flexible Cysto-Nephroscope, HD 1000",
+      "titleAccent": "",
+      "tagline": "HD flexible scope for cystoscopy and for nephroscopy through a PCNL tract.",
+      "keyBenefits": [
+        "Dual LED",
+        "Three customisable buttons",
+        "Built-in stopcock"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Outer diameter",
+            "value": "15 Fr · 5 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working channel",
+            "value": "6.6 Fr · 2.2 mm",
+            "highlight": false
+          },
+          {
+            "label": "Deflection up / down",
+            "value": "225°",
+            "highlight": false
+          },
+          {
+            "label": "Working length",
+            "value": "380 mm",
+            "highlight": false
+          },
+          {
+            "label": "Resolution",
+            "value": "1000 × 1000 pixels",
+            "highlight": false
+          },
+          {
+            "label": "Depth of field",
+            "value": "3–100 mm",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "slim-flexible-cystoscope",
+      "code": "RP-U-C0201 / RP-U-C0202",
+      "name": "Slim flexible cystoscope / cysto-nephroscope",
+      "description": "Slim flexible scopes for office cystoscopy, bladder follow-up and DJ stent removal.",
+      "categoryId": "endourology",
+      "subcategoryId": "cystoscopes-nephroscopes",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [
+        "mini-pcnl",
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [
+        "13.2 Fr",
+        "6.6 Fr channel"
+      ],
+      "requires": "Redpine processor",
+      "order": 6,
+      "image": {
+        "key": "slim-flexible-cystoscope",
+        "alt": "Slim flexible cystoscope / cysto-nephroscope"
+      },
+      "title": "Single-Use Video Flexible Cystoscope / Cysto-Nephroscope, Super Slim",
+      "titleAccent": "",
+      "tagline": "Slim flexible scopes for office cystoscopy, bladder follow-up and DJ stent removal.",
+      "keyBenefits": [
+        "RP-U-C0201 cystoscope with angle lock",
+        "RP-U-C0202 cysto-nephroscope with disposable video cable"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Outer diameter",
+            "value": "13.2 Fr · 4.4 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working channel",
+            "value": "6.6 Fr · 2.2 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working length",
+            "value": "380 mm",
+            "highlight": false
+          },
+          {
+            "label": "Field of view",
+            "value": "120°",
+            "highlight": false
+          },
+          {
+            "label": "Deflection · RP-U-C0201",
+            "value": "210° up · 120° down",
+            "highlight": false
+          },
+          {
+            "label": "Deflection · RP-U-C0202",
+            "value": "225° up / down",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "hd-rigid-cystoscope",
+      "code": "RP-U-C0102 / RP-U-C0103",
+      "name": "HD rigid cystoscope",
+      "description": "HD single-use rigid cystoscope in two working lengths.",
+      "categoryId": "endourology",
+      "subcategoryId": "cystoscopes-nephroscopes",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [
+        "15 Fr",
+        "230 / 280 mm"
+      ],
+      "requires": "Redpine processor",
+      "order": 7,
+      "image": {
+        "key": "hd-rigid-cystoscope",
+        "alt": "HD rigid cystoscope"
+      },
+      "title": "Single-Use Rigid Cystoscope, HD",
+      "titleAccent": "",
+      "tagline": "HD single-use rigid cystoscope in two working lengths.",
+      "keyBenefits": [
+        "Two working lengths: 230 mm and 280 mm",
+        "Lightweight handle"
+      ],
+      "sizes": [
+        "230 mm",
+        "280 mm"
+      ],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Outer diameter",
+            "value": "15 Fr · 5 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working channel",
+            "value": "6 Fr · 2 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working length",
+            "value": "230 mm (RP-U-C0102) · 280 mm (RP-U-C0103)",
+            "highlight": false
+          },
+          {
+            "label": "Field of view",
+            "value": "120°",
+            "highlight": false
+          },
+          {
+            "label": "Depth of field",
+            "value": "3–100 mm",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "mini-pcnl-nephroscope",
+      "code": "RP-U-C0410",
+      "name": "Mini-PCNL nephroscope",
+      "description": "Single-use nephroscope for mini-PCNL.",
+      "categoryId": "endourology",
+      "subcategoryId": "cystoscopes-nephroscopes",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [
+        "mini-pcnl"
+      ],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [
+        "13.5 Fr",
+        "6.6 Fr channel"
+      ],
+      "requires": "Redpine processor",
+      "order": 8,
+      "image": {
+        "key": "mini-pcnl-nephroscope",
+        "alt": "Mini-PCNL nephroscope"
+      },
+      "title": "Single-Use Nephroscope, Mini-PCNL",
+      "titleAccent": "",
+      "tagline": "Single-use nephroscope for mini-PCNL.",
+      "keyBenefits": [
+        "Electronic imaging, with no rod lens to wear",
+        "No sterilisation or reprocessing between cases"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Outer diameter",
+            "value": "13.5 Fr · 4.5 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working channel",
+            "value": "6.6 Fr · 2.2 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working length",
+            "value": "300 mm",
+            "highlight": false
+          },
+          {
+            "label": "Field of view",
+            "value": "120°",
+            "highlight": false
+          },
+          {
+            "label": "Depth of field",
+            "value": "3–50 mm",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "semi-rigid-cystoscope",
+      "code": "RP-U-C0101",
+      "name": "Semi-rigid cystoscope, bendable tip",
+      "description": "Single-use rigid cystoscope with a tip that bends up to 45° for alignment with the target.",
+      "categoryId": "endourology",
+      "subcategoryId": "cystoscopes-nephroscopes",
+      "alsoIn": [],
+      "status": "coming-soon",
+      "procedures": [
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [
+        "15.6 Fr",
+        "8.4 Fr channel",
+        "45° tip"
+      ],
+      "requires": "Redpine processor",
+      "order": 9,
+      "image": {
+        "key": "semi-rigid-cystoscope",
+        "alt": "Semi-rigid cystoscope, bendable tip"
+      },
+      "title": "Single-Use Rigid Cystoscope, Semi-Rigid with Bendable Tip",
+      "titleAccent": "",
+      "tagline": "Single-use rigid cystoscope with a tip that bends up to 45° for alignment with the target.",
+      "keyBenefits": [
+        "Tip bends up to 45°",
+        "Large 8.4 Fr working channel",
+        "Front-end CMOS camera with dual LED"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Outer diameter",
+            "value": "15.6 Fr · 5.2 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working channel",
+            "value": "8.4 Fr · 2.8 mm",
+            "highlight": false
+          },
+          {
+            "label": "Tip bend",
+            "value": "Up to 45°",
+            "highlight": false
+          },
+          {
+            "label": "Working length",
+            "value": "221 mm",
+            "highlight": false
+          },
+          {
+            "label": "Field of view",
+            "value": "120°",
+            "highlight": false
+          },
+          {
+            "label": "Depth of field",
+            "value": "3–50 mm",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "biopsy-forceps-rigid",
+      "code": "RP-U-P0901 · P1302 · P1101 · P1502",
+      "name": "Single-use biopsy forceps (rigid)",
+      "description": "Single-use rigid biopsy forceps for rigid cystoscopes and nephroscopes.",
+      "categoryId": "endourology",
+      "subcategoryId": "endoscopic-accessories",
+      "alsoIn": [],
+      "status": "coming-soon",
+      "procedures": [
+        "mini-pcnl",
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [
+        "1.5 / 2.3 mm",
+        "Alligator · Spoon"
+      ],
+      "requires": null,
+      "order": 10,
+      "image": {
+        "key": "biopsy-forceps-rigid",
+        "alt": "Single-use biopsy forceps (rigid)"
+      },
+      "title": "Single-Use Biopsy Forceps (Rigid)",
+      "titleAccent": "",
+      "tagline": "Single-use rigid biopsy forceps for rigid cystoscopes and nephroscopes.",
+      "keyBenefits": [
+        "Alligator-jaw and spoon-cup versions",
+        "Two insertion diameters for 1.8 or 2.5 mm scope channels"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Alligator jaw",
+            "value": "RP-U-P0901 · RP-U-P1302",
+            "highlight": false
+          },
+          {
+            "label": "Spoon cup",
+            "value": "RP-U-P1101 · RP-U-P1502",
+            "highlight": false
+          },
+          {
+            "label": "Insertion OD",
+            "value": "1.5 or 2.3 mm",
+            "highlight": false
+          },
+          {
+            "label": "Scope channel",
+            "value": "1.8 or 2.5 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working length",
+            "value": "405 mm",
+            "highlight": false
+          },
+          {
+            "label": "Pack",
+            "value": "10 per box",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "single-use-scissors",
+      "code": "RP-G-H01",
+      "name": "Single-use scissors",
+      "description": "Single-use pointed, single-action scissors for use through a 1.8 mm scope channel.",
+      "categoryId": "endourology",
+      "subcategoryId": "endoscopic-accessories",
+      "alsoIn": [],
+      "status": "coming-soon",
+      "procedures": [
+        "mini-pcnl",
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [
+        "1.65 mm",
+        "Pointed"
+      ],
+      "requires": null,
+      "order": 11,
+      "image": {
+        "key": "single-use-scissors",
+        "alt": "Single-use scissors"
+      },
+      "title": "Single-Use Scissors",
+      "titleAccent": "",
+      "tagline": "Single-use pointed, single-action scissors for use through a 1.8 mm scope channel.",
+      "keyBenefits": [
+        "Pointed, single-action",
+        "For use through a 1.8 mm scope channel"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Insertion OD",
+            "value": "1.65 mm",
+            "highlight": false
+          },
+          {
+            "label": "Scope channel",
+            "value": "1.8 mm",
+            "highlight": false
+          },
+          {
+            "label": "Working length",
+            "value": "405 mm",
+            "highlight": false
+          },
+          {
+            "label": "Maximum opening angle",
+            "value": "30°",
+            "highlight": false
+          },
+          {
+            "label": "Pack",
+            "value": "6 per box",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
     },
     {
       "id": "convicath-male",
-      "categoryId": "continence-care",
-      "type": "ConviCath",
+      "code": null,
       "name": "ConviCath male",
       "description": "Hydrophilic intermittent catheter in male length for clean intermittent self-catheterisation.",
+      "categoryId": "continence-care",
+      "subcategoryId": "convicath",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [],
+      "requires": null,
+      "order": 12,
       "image": {
         "key": null,
         "alt": "ConviCath male catheter"
@@ -499,10 +933,19 @@
     },
     {
       "id": "convicath-female",
-      "categoryId": "continence-care",
-      "type": "ConviCath",
+      "code": null,
       "name": "ConviCath female",
       "description": "Shorter female-length hydrophilic catheter for discreet intermittent use.",
+      "categoryId": "continence-care",
+      "subcategoryId": "convicath",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [],
+      "requires": null,
+      "order": 13,
       "image": {
         "key": null,
         "alt": "ConviCath female catheter"
@@ -594,10 +1037,19 @@
     },
     {
       "id": "convicath-tiemann",
-      "categoryId": "continence-care",
-      "type": "ConviCath",
+      "code": null,
       "name": "ConviCath Tiemann tip",
       "description": "Curved Tiemann tip for patients with strictures or a difficult urethral passage.",
+      "categoryId": "continence-care",
+      "subcategoryId": "convicath",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [],
+      "requires": null,
+      "order": 14,
       "image": {
         "key": null,
         "alt": "ConviCath Tiemann tip catheter"
@@ -689,10 +1141,19 @@
     },
     {
       "id": "clip-d",
-      "categoryId": "surgical-innovation",
-      "type": "Circumcision stapler",
+      "code": null,
       "name": "CLIP D",
       "description": "Disposable stapling device that standardises circumcision in a single step.",
+      "categoryId": "surgical-innovation",
+      "subcategoryId": "circumcision-stapler",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [],
+      "requires": null,
+      "order": 15,
       "image": {
         "key": null,
         "alt": "CLIP D circumcision stapler"
@@ -787,10 +1248,19 @@
     },
     {
       "id": "venus-3d-navigation",
-      "categoryId": "ot-imaging",
-      "type": "Venus",
+      "code": null,
       "name": "Venus 3D navigation",
       "description": "Real-time 3D navigation for guiding access and instruments inside the operating theatre.",
+      "categoryId": "ot-imaging",
+      "subcategoryId": "venus",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [],
+      "requires": null,
+      "order": 16,
       "image": {
         "key": null,
         "alt": "Venus 3D navigation system"
@@ -855,10 +1325,19 @@
     },
     {
       "id": "venus-fusion-ultrasound",
-      "categoryId": "ot-imaging",
-      "type": "Venus",
+      "code": null,
       "name": "Venus fusion ultrasound",
       "description": "Image-fusion ultrasound that overlays prior imaging on live ultrasound for targeted procedures.",
+      "categoryId": "ot-imaging",
+      "subcategoryId": "venus",
+      "alsoIn": [],
+      "status": "available",
+      "procedures": [],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [],
+      "requires": null,
+      "order": 17,
       "image": {
         "key": null,
         "alt": "Venus fusion ultrasound system"
@@ -916,6 +1395,214 @@
           {
             "label": "Power supply",
             "value": "TBC"
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "portable-processor-gen-2",
+      "code": "RP-IPD-V1000D",
+      "name": "Portable processor, gen 2",
+      "description": "Portable full-HD processor for Redpine single-use scopes.",
+      "categoryId": "ot-imaging",
+      "subcategoryId": "video-processors",
+      "alsoIn": [
+        "endourology"
+      ],
+      "status": "available",
+      "procedures": [
+        "rirs-urs",
+        "mini-pcnl",
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": "gen 2",
+      "chips": [
+        "13.3″ Full HD",
+        "DICOM"
+      ],
+      "requires": null,
+      "order": 18,
+      "image": {
+        "key": "portable-processor-gen-2",
+        "alt": "Portable processor, gen 2"
+      },
+      "title": "Endoscopic Video Image Processor, Portable (2nd generation)",
+      "titleAccent": "",
+      "tagline": "Portable full-HD processor for Redpine single-use scopes.",
+      "keyBenefits": [
+        "EBI enhanced imaging mode for vessel and mucosa contrast",
+        "DICOM and PACS support"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Display",
+            "value": "13.3″ touchscreen · 1920 × 1080",
+            "highlight": false
+          },
+          {
+            "label": "Video output",
+            "value": "HDMI / SDI / CVBS",
+            "highlight": false
+          },
+          {
+            "label": "Storage",
+            "value": "192 GB",
+            "highlight": false
+          },
+          {
+            "label": "Connectivity",
+            "value": "DICOM and PACS",
+            "highlight": false
+          },
+          {
+            "label": "Power",
+            "value": "100–240 V AC",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "stationary-processor",
+      "code": "RP-IPD-V2000A / B / C / D / EF",
+      "name": "Stationary processor (R Display Pro)",
+      "description": "Stationary full-HD processor compatible with all Redpine endoscopes.",
+      "categoryId": "ot-imaging",
+      "subcategoryId": "video-processors",
+      "alsoIn": [
+        "endourology"
+      ],
+      "status": "available",
+      "procedures": [
+        "rirs-urs",
+        "mini-pcnl",
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": null,
+      "chips": [
+        "13.3″ Full HD",
+        "DICOM"
+      ],
+      "requires": null,
+      "order": 19,
+      "image": {
+        "key": "stationary-processor",
+        "alt": "Stationary processor (R Display Pro)"
+      },
+      "title": "Endoscopic Video Image Processor, Stationary (R Display Pro)",
+      "titleAccent": "",
+      "tagline": "Stationary full-HD processor compatible with all Redpine endoscopes.",
+      "keyBenefits": [
+        "EBI enhanced imaging",
+        "Automatic scope recognition",
+        "Custom buttons"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Display",
+            "value": "13.3″ touchscreen · 1920 × 1080",
+            "highlight": false
+          },
+          {
+            "label": "Video output",
+            "value": "HDMI / DVI / SDI / CVBS / LAN",
+            "highlight": false
+          },
+          {
+            "label": "Storage",
+            "value": "64–576 GB by model",
+            "highlight": false
+          },
+          {
+            "label": "Connectivity",
+            "value": "DICOM",
+            "highlight": false
+          }
+        ]
+      },
+      "variants": []
+    },
+    {
+      "id": "portable-processor-gen-1",
+      "code": "RP-IPD-V800",
+      "name": "Portable processor, gen 1",
+      "description": "Portable processor that powers and displays Redpine single-use scopes.",
+      "categoryId": "ot-imaging",
+      "subcategoryId": "video-processors",
+      "alsoIn": [
+        "endourology"
+      ],
+      "status": "coming-soon",
+      "procedures": [
+        "rirs-urs",
+        "mini-pcnl",
+        "cystoscopy"
+      ],
+      "tag": null,
+      "variantLabel": "gen 1",
+      "chips": [
+        "10.1″",
+        "Portable"
+      ],
+      "requires": null,
+      "order": 20,
+      "image": {
+        "key": "portable-processor-gen-1",
+        "alt": "Portable processor, gen 1"
+      },
+      "title": "Endoscopic Video Image Processor, Portable (1st generation)",
+      "titleAccent": "",
+      "tagline": "Portable processor that powers and displays Redpine single-use scopes.",
+      "keyBenefits": [
+        "Adjustable zoom, colour, brightness, image rotation and frame shape",
+        "Patient file management",
+        "Foot-pedal support"
+      ],
+      "sizes": [],
+      "brochure": null,
+      "overview": null,
+      "specs": {
+        "eyebrow": "Specifications",
+        "title": "Technical specifications",
+        "note": "Specifications from the manufacturer catalogue. Full datasheet available on request through our team.",
+        "rows": [
+          {
+            "label": "Display",
+            "value": "10.1″ LCD touchscreen · 1280 × 800",
+            "highlight": false
+          },
+          {
+            "label": "Video output",
+            "value": "HDMI / AV",
+            "highlight": false
+          },
+          {
+            "label": "Image export",
+            "value": "USB 3.0",
+            "highlight": false
+          },
+          {
+            "label": "Storage",
+            "value": "Micro SD 32 GB",
+            "highlight": false
           }
         ]
       },

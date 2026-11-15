@@ -2,8 +2,7 @@ import { Navigate, useParams } from 'react-router'
 import { PageHero } from '@/components/layout/PageHero/PageHero'
 import { Accent } from '@/components/ui/Accent/Accent'
 import { Button } from '@/components/ui/Button/Button'
-import { categories } from '@/data/categories.json'
-import { products } from '@/data/products.json'
+import { categories, products, subcategoryName } from '@/data/catalog'
 import { quoteHref } from '@/data/navigation'
 import { Benefits } from '@/sections/category/Benefits/Benefits'
 import { Procedures } from '@/sections/category/Procedures/Procedures'
@@ -43,7 +42,9 @@ export function CategoryPage() {
         }
       />
       <Procedures {...category.procedures} />
-      <Products {...category.products} items={products.filter((p) => p.categoryId === category.id)} />
+      <Products {...category.products} items={products
+          .filter((p) => p.categoryId === category.id)
+          .map((p) => ({ ...p, type: subcategoryName(p.subcategoryId) }))} />
       <Benefits {...category.benefits} />
     </>
   )

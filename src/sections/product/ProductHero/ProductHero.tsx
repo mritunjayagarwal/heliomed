@@ -54,6 +54,7 @@ export function ProductHero({
             </h1>
             <p className={styles.tagline}>{tagline}</p>
 
+            {keyBenefits.length > 0 && (
             <ul className={styles.benefits}>
               {keyBenefits.map((benefit) => (
                 <li key={benefit}>
@@ -62,6 +63,7 @@ export function ProductHero({
                 </li>
               ))}
             </ul>
+            )}
 
             {sizes.length > 0 && (
               <div className={styles.sizes}>

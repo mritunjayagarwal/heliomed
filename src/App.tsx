@@ -2,6 +2,7 @@ import { Route, Routes } from 'react-router'
 import { Layout } from '@/components/layout/Layout/Layout'
 import { CategoriesPage } from '@/pages/CategoriesPage'
 import { CategoryPage } from '@/pages/CategoryPage'
+import { EndourologyPage } from '@/pages/EndourologyPage'
 import { ContactPage } from '@/pages/ContactPage'
 import { HomePage } from '@/pages/HomePage'
 import { ProductPage } from '@/pages/ProductPage'
@@ -15,6 +16,7 @@ export default function App() {
         <Route path="contact" element={<ContactPage />} />
         <Route path="categories" element={<CategoriesPage />} />
         <Route path="products" element={<ProductsPage />} />
+        <Route path="products/endourology" element={<EndourologyPage />} />
         <Route path="products/:id" element={<CategoryPage />} />
         <Route path="products/:categoryId/:productId" element={<ProductPage />} />
       </Route>

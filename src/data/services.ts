@@ -10,7 +10,7 @@ export const services: Service[] = [
     id: 'endourology',
     title: 'Endourology & PCNL',
     description:
-      'Ureteral access sheaths, tear-away sheaths, dilator sets and stone-retrieval devices for ureteroscopy and percutaneous procedures.',
+      'Single-use flexible ureteroscopes, cystoscopes and nephroscopes for RIRS, PCNL and cystoscopy, with the video processors that run them.',
     href: '/products/endourology',
   },
   {

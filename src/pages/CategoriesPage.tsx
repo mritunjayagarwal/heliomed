@@ -1,7 +1,6 @@
 import { PageHero } from '@/components/layout/PageHero/PageHero'
 import { Accent } from '@/components/ui/Accent/Accent'
-import { categories } from '@/data/categories.json'
-import { products } from '@/data/products.json'
+import { categories, products } from '@/data/catalog'
 import { CategoryBlock } from '@/sections/categories/CategoryBlock/CategoryBlock'
 import { JumpNav } from '@/sections/categories/JumpNav/JumpNav'
 import { ContactCta } from '@/sections/home/ContactCta/ContactCta'

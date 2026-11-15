@@ -5,7 +5,15 @@ import heroBg from './hero-bg.webp'
 import logo from './logo.png'
 import rangeImage from './range-image.webp'
 
+// Product images are keyed by product id: products/<product-id>.webp
+const productImages = Object.fromEntries(
+  Object.entries(import.meta.glob<string>('./products/*.webp', { eager: true, import: 'default' })).map(
+    ([path, url]) => [path.slice('./products/'.length, -'.webp'.length), url],
+  ),
+)
+
 export const images = {
+  ...productImages,
   logo,
   heroBg,
   aboutImage,

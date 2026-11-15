@@ -1,8 +1,7 @@
 import { useSearchParams } from 'react-router'
 import { PageHero } from '@/components/layout/PageHero/PageHero'
 import { Accent } from '@/components/ui/Accent/Accent'
-import { categories } from '@/data/categories.json'
-import { products } from '@/data/products.json'
+import { categories, products, subcategoryName } from '@/data/catalog'
 import { ContactCta } from '@/sections/home/ContactCta/ContactCta'
 import { Filters } from '@/sections/products/Filters/Filters'
 import { Listing } from '@/sections/products/Listing/Listing'
@@ -36,7 +35,7 @@ export function ProductsPage() {
     .map((p) => ({ ...p, categoryName: categoryNames.get(p.categoryId) ?? '' }))
     .filter((p) => !category || p.categoryId === category)
     .filter(
-      (p) => !needle || [p.name, p.type, p.description, p.categoryName].join(' ').toLowerCase().includes(needle),
+      (p) => !needle || [p.name, p.code, subcategoryName(p.subcategoryId), p.description, p.categoryName].join(' ').toLowerCase().includes(needle),
     )
   if (sort !== 'featured') {
     matches.sort((a, b) => a.name.localeCompare(b.name) * (sort === 'name-desc' ? -1 : 1))
